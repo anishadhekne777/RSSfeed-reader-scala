@@ -1,5 +1,5 @@
 # RSSfeed-reader-scala
-The purpose of this project is to parse a text file containing RSS feed URLs by building a Scala application. Because an RSS feed is just XML, this library uses ROME parsing library and its standard functions to required extract data.
+The purpose of this project is to parse a text file containing RSS feed URLs by building a Scala application. Because an RSS feed is just XML, this application uses ROME parsing library and its standard functions to required extract data.
 
 Add the following external Jar files that includes the rometools dependencies:
 jdom2-2.0.6.jar
